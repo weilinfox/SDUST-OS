@@ -1,0 +1,1 @@
+cmd_/home/hachi/Desktop/Work/OS/调试可用的代码/2添加简单的Linux内核模块/Module.symvers := sed 's/ko$$/o/' /home/hachi/Desktop/Work/OS/调试可用的代码/2添加简单的Linux内核模块/modules.order | scripts/mod/modpost -m -a   -o /home/hachi/Desktop/Work/OS/调试可用的代码/2添加简单的Linux内核模块/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/hachi/Desktop/Work/OS/调试可用的代码/2添加简单的Linux内核模块/modules.order := {   echo /home/hachi/Desktop/Work/OS/调试可用的代码/2添加简单的Linux内核模块/kello.ko; :; } | awk '!x[$$0]++' - > /home/hachi/Desktop/Work/OS/调试可用的代码/2添加简单的Linux内核模块/modules.order

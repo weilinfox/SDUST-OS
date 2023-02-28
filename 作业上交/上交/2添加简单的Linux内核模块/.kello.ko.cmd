@@ -1,0 +1,1 @@
+cmd_/home/hachi/Desktop/Work/OS/调试可用的代码/2添加简单的Linux内核模块/kello.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/hachi/Desktop/Work/OS/调试可用的代码/2添加简单的Linux内核模块/kello.ko /home/hachi/Desktop/Work/OS/调试可用的代码/2添加简单的Linux内核模块/kello.o /home/hachi/Desktop/Work/OS/调试可用的代码/2添加简单的Linux内核模块/kello.mod.o;  true

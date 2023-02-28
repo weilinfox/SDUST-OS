@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=Development;
+Comment[zh_CN]=
+Comment=
+Exec=/home/os/Qt5.4.0/Tools/QtCreator/bin/qtcreator
+GenericName[zh_CN]=IDE
+GenericName=IDE
+Icon=/home/os/Pictures/qtcreator.png
+MimeType=
+Name[zh_CN]=Qt5.4
+Name=Qt5.4
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=os
+

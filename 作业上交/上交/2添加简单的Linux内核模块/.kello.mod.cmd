@@ -1,0 +1,1 @@
+cmd_/home/hachi/Desktop/Work/OS/调试可用的代码/2添加简单的Linux内核模块/kello.mod := { echo  /home/hachi/Desktop/Work/OS/调试可用的代码/2添加简单的Linux内核模块/kello.o;  echo; } > /home/hachi/Desktop/Work/OS/调试可用的代码/2添加简单的Linux内核模块/kello.mod
